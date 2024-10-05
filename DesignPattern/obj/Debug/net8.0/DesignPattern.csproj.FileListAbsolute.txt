@@ -12,3 +12,4 @@
 /Users/nguyenhuukhai/study/CSharpLearn/DesignPattern/DesignPattern/obj/Debug/net8.0/DesignPattern.pdb
 /Users/nguyenhuukhai/study/CSharpLearn/DesignPattern/DesignPattern/obj/Debug/net8.0/DesignPattern.genruntimeconfig.cache
 /Users/nguyenhuukhai/study/CSharpLearn/DesignPattern/DesignPattern/obj/Debug/net8.0/ref/DesignPattern.dll
+/Users/nguyenhuukhai/study/CSharpLearn/DesignPattern/DesignPattern/obj/Debug/net8.0/DesignPattern.sourcelink.json
