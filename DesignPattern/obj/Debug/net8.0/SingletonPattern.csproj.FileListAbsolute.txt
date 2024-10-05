@@ -1,0 +1,14 @@
+/Users/nguyenhuukhai/study/CSharpLearn/DesignPattern/SingletonPattern/bin/Debug/net8.0/SingletonPattern
+/Users/nguyenhuukhai/study/CSharpLearn/DesignPattern/SingletonPattern/bin/Debug/net8.0/SingletonPattern.deps.json
+/Users/nguyenhuukhai/study/CSharpLearn/DesignPattern/SingletonPattern/bin/Debug/net8.0/SingletonPattern.runtimeconfig.json
+/Users/nguyenhuukhai/study/CSharpLearn/DesignPattern/SingletonPattern/bin/Debug/net8.0/SingletonPattern.dll
+/Users/nguyenhuukhai/study/CSharpLearn/DesignPattern/SingletonPattern/bin/Debug/net8.0/SingletonPattern.pdb
+/Users/nguyenhuukhai/study/CSharpLearn/DesignPattern/SingletonPattern/obj/Debug/net8.0/SingletonPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nguyenhuukhai/study/CSharpLearn/DesignPattern/SingletonPattern/obj/Debug/net8.0/SingletonPattern.AssemblyInfoInputs.cache
+/Users/nguyenhuukhai/study/CSharpLearn/DesignPattern/SingletonPattern/obj/Debug/net8.0/SingletonPattern.AssemblyInfo.cs
+/Users/nguyenhuukhai/study/CSharpLearn/DesignPattern/SingletonPattern/obj/Debug/net8.0/SingletonPattern.csproj.CoreCompileInputs.cache
+/Users/nguyenhuukhai/study/CSharpLearn/DesignPattern/SingletonPattern/obj/Debug/net8.0/SingletonPattern.dll
+/Users/nguyenhuukhai/study/CSharpLearn/DesignPattern/SingletonPattern/obj/Debug/net8.0/refint/SingletonPattern.dll
+/Users/nguyenhuukhai/study/CSharpLearn/DesignPattern/SingletonPattern/obj/Debug/net8.0/SingletonPattern.pdb
+/Users/nguyenhuukhai/study/CSharpLearn/DesignPattern/SingletonPattern/obj/Debug/net8.0/SingletonPattern.genruntimeconfig.cache
+/Users/nguyenhuukhai/study/CSharpLearn/DesignPattern/SingletonPattern/obj/Debug/net8.0/ref/SingletonPattern.dll
